@@ -1,0 +1,137 @@
+[
+    {
+        "categoria": "Lugares Turisticos",
+        "pregunta": "¿Que lugar turistico es el de la imagen?",
+        "respuesta": "salar de uyuni",
+        "incorrecta1": "Isla Incahuasi",
+        "incorrecta2": "Cementerio de trenes",
+        "incorrecta3": "Camino de la muerte",
+        "imagen": "salar.jfif",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Lugares Turisticos",
+        "pregunta": "Una de las ciudades mas prosperas de America es...",
+        "respuesta": "Potosi",
+        "incorrecta1": "La Paz",
+        "incorrecta2": "Pando",
+        "incorrecta3": "Tarija",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Lugares Turisticos",
+        "pregunta": "Esta situada en una región montañosa en una zona de rocas gigantes",
+        "respuesta": "Parque nacional Toro Toro",
+        "incorrecta1": "Isla Incahuasi",
+        "incorrecta2": "Salar de Uyuni ",
+        "incorrecta3": "Lago Titicaca",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Lugares Turisticos",
+        "pregunta": "Es una zona que tiene volcanes en erupción",
+        "respuesta": "Reserva nacional  de fauna  andina  Eduardo Avaroa",
+        "incorrecta1": "Ciudad de Potosi ",
+        "incorrecta2": "Valle de la Luna ",
+        "incorrecta3": "Lago Titicaca",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Lugares Turisticos",
+        "pregunta": "Lago navegable más alto del mundo",
+        "respuesta": "Lago Titicaca",
+        "incorrecta1": "Parque Noel Kemp",
+        "incorrecta2": "Lago popo ",
+        "incorrecta3": "Laguna colorado",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Lugares Turisticos",
+        "pregunta": "¿Que ciudad de Bolivia puedes observar en esta imagen?",
+        "respuesta": "Sucre",
+        "incorrecta1": "Tarija",
+        "incorrecta2": "Beni",
+        "incorrecta3": "Cochabamba",
+        "imagen": "sucre.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Lugares Turisticos",
+        "pregunta": "Arquitectura blanca, con tejas de barro",
+        "respuesta": "Sucre",
+        "incorrecta1": "Pando",
+        "incorrecta2": "Santa Cruz",
+        "incorrecta3": "Cochabamba",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Lugares Turisticos",
+        "pregunta": "Se encuentra situada en el Amazonas, extendiéndose por 1.895.740 hectáreas.",
+        "respuesta": "Parque Nacional Madidi",
+        "incorrecta1": "Parque Nacional Toro Toro",
+        "incorrecta2": "Parque Nacional Sajama",
+        "incorrecta3": "Parque Nacional Isiboro-Secure",
+        "imagen": "madidi.jfif",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Lugares Turisticos",
+        "pregunta": "¿Cuál es la caminata de paseo mas larga del mundo?",
+        "respuesta": "Cal Orko",
+        "incorrecta1": "Isla Incahuasi",
+        "incorrecta2": "Salar de Uyuni ",
+        "incorrecta3": "Camino de la muerte",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Lugares Turisticos",
+        "pregunta": "¿Que lugar turistico es el de la imagen?",
+        "respuesta": "Misiones Jesuíticas de Chiquitania",
+        "incorrecta1": "Isla Incahuasi",
+        "incorrecta2": "Cementerio de trenes",
+        "incorrecta3": "Camino de la muerte",
+        "imagen": "jesuitas.JPG",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Lugares Turisticos",
+        "pregunta": "Piedra tallada más grande del mundo",
+        "respuesta": "Fuerte de Samaipata",
+        "incorrecta1": "Isla Incahuasi",
+        "incorrecta2": "Tiahuanaco",
+        "incorrecta3": "Parque nacional Madidi",
+        "imagen": "fuerte.jfif",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Lugares Turisticos",
+        "pregunta": " Antigua ciudad precolombina en ruinas cerca de la orilla sureste del lago Titicaca",
+        "respuesta": "Tiwanaku",
+        "incorrecta1": "Cultura Hidraúlicacde las Lomas",
+        "incorrecta2": "Huari",
+        "incorrecta3": "Los Chavin",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Lugares Turisticos",
+        "pregunta": "¿En que Ciudad se realiza el carnaval más grande de Bolivia? ",
+        "respuesta": "Oruro",
+        "incorrecta1": "La Paz",
+        "incorrecta2": "Santa Cruz",
+        "incorrecta3": "Sucre ",
+        "imagen": "carnaval.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Lugares Turisticos",
+        "pregunta": "Este lugar turistico debe su nombre Neil Armstrong",
+        "respuesta": "Valle de la luna",
+        "incorrecta1": "Yungas",
+        "incorrecta2": "Rserva nacional de fauna andina Eduardo Avaroa",
+        "incorrecta3": "Illimani",
+        "imagen": "luna.jfif",
+        "objectFit": "cover"
+    }
+
+]

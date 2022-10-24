@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>INICIA SESIÓN</h1>
+    <FORM action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST">
+        <table> 
+            <tr>
+                <td class="izquierda">Usuario: </td>
+                <td class="derecha"><input type="text" name="usuario"></td>
+            </tr>
+            <tr>
+                <td class="izquierda">Clave: </td>
+                <td class="derecha"><input type="password" name="clave"></td>
+            </tr>
+            <tr>
+                <td colspan="2"><input type="submit" name="enviar" value="Ingresar"></td>
+            </tr>
+        </table>
+    </FORM>
+</body>
+</html>
